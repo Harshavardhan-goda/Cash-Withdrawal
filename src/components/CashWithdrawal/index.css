@@ -1,0 +1,41 @@
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  color: #c4c4c4;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+.card {
+  background-color: #150b3e;
+  width: 60%;
+  padding: 70px;
+  border-radius: 15px;
+}
+.profile-icon {
+  background-color: #c7d2fe;
+  width: 7%;
+  padding: 15px;
+  border-radius: 50px;
+  text-align: center;
+}
+.profile-card {
+  display: flex;
+  padding: 10px;
+}
+.profile-name {
+  margin: 12px;
+}
+.balance-card {
+  display: flex;
+  justify-content: space-between;
+}
+.balance-paragraph {
+  font-size: 25px;
+}
+
+.list-card {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
